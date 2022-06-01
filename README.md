@@ -1,6 +1,6 @@
 # Grid Design Studio
 
-Exercise to practice grid.
+**Exercise to practice grid.**
 
 Below is the mockup the designer just sent you for the site:
 
